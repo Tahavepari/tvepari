@@ -182,19 +182,23 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
+    background-color: #111;
 }
 .home .home-content .text-2{
     font-size: 50px;
     font-weight: 600;
     margin-left: -3px;
+    background-color: #111;
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
+    background-color: #111;
 }
 .home .home-content .text-3 span{
     color:  #006400;
     font-weight: 500;
+    background-color: #111;
 }
 .home .home-content a{
     display: inline-block;
